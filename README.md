@@ -1,6 +1,6 @@
  <!--Hi there 👋-->
 
-<!--<img src="https://thumbs.gfycat.com/ColorfulGregariousAllosaurus-size_restricted.gif" style="width:100%">-->
+<img src="https://thumbs.gfycat.com/ColorfulGregariousAllosaurus-size_restricted.gif" style="width:100%">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
